@@ -18,10 +18,9 @@ Media Inpainting Toolkit is a command-line Python application that enables seaml
 3. [Usage](#usage)
    - [A. Image Inpainting](#a-image-inpainting)
    - [B. Video Inpainting](#b-video-inpainting)
-4. [Project Structure](#project-structure)
-5. [Models and Dependencies](#models-and-dependencies)
-6. [Test-Results](#Test-Results)
-7. [Evaluation](#Evaluation)
+4. [Models and Dependencies](#models-and-dependencies)
+5. [Test-Results](#Test-Results)
+6. [Evaluation](#Evaluation)
 
 ---
 
