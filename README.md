@@ -20,9 +20,7 @@
    - [A. Image Inpainting](#a-image-inpainting)  
    - [B. Video Inpainting](#b-video-inpainting)  
 4. [Project Structure](#project-structure)  
-5. [Models and Dependencies](#models-and-dependencies)  
-6. [Contributing](#contributing)  
-7. [License](#license)  
+5. [Models and Dependencies](#models-and-dependencies)    
 
 ---
 
@@ -125,15 +123,3 @@ media-inpainting-toolkit/
 - **LAMA**: Large Masked Autoencoder for conditional image generation  
 - **XMem**: Memory-based video object segmentation for mask propagation  
 - **Others**: `opencv-python`, `torch`, `numpy`, `pycocotools`, etc.  
-
----
-
-## Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repo  
-2. Create a feature branch (`git checkout -b feature-name`)  
-3. Commit your changes (`git commit -m "Add new feature"`)  
-4. Push to the branch (`git push origin feature-name`)  
-5. Open a Pull Request  
