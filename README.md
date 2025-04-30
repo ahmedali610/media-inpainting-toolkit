@@ -155,7 +155,7 @@ media-inpainting-toolkit/
 
 ## Evaluation
 
-![Image Evaluation](https://github.com/user-attachments/assets/7270de18-fde9-4070-b5bd-1a82e13ecbf0)      ![Video Evaluation](https://github.com/user-attachments/assets/978a589e-bf14-40b8-9a78-35070aa8eadc)
+      ![Image Evaluation](https://github.com/user-attachments/assets/7270de18-fde9-4070-b5bd-1a82e13ecbf0)         ![Video Evaluation](https://github.com/user-attachments/assets/978a589e-bf14-40b8-9a78-35070aa8eadc)
 
 
 ### Metrics
