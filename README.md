@@ -163,13 +163,6 @@ The toolkit computes two quantitative performance metrics for inpainting quality
 - **Average LPIPS (Learned Perceptual Image Patch Similarity):** A learned metric capturing perceptual differences. Values are typically between 0 and 1, with values closer to **0** indicating less perceptual difference and better inpainting performance.
 
 ### Image Evaluation Results
-   ![Image Evaluation](https://github.com/user-attachments/assets/7270de18-fde9-4070-b5bd-1a82e13ecbf0)
-   
-   
-### Video Evaluation Results
-   ![Video Evaluation](https://github.com/user-attachments/assets/978a589e-bf14-40b8-9a78-35070aa8eadc)
-
-### Image Evaluation Results
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7270de18-fde9-4070-b5bd-1a82e13ecbf0" alt="Image Evaluation" />
