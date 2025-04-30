@@ -100,40 +100,6 @@ Media Inpainting Toolkit is a command-line Python application that enables seaml
 
 ---
 
-## Project Structure
-
-```bash
-media-inpainting-toolkit/
-├── input_images/               # Place source images here
-├── input_video/                # Place source video here
-├── test_images/                # Images for test runs
-├── models/                     # Download pretrained LAMA & XMem weights
-├── scripts/
-│   ├── inpaint_images.py       # Image inpainting pipeline
-│   ├── inpaint_video.py        # Video inpainting pipeline
-│   └── evaluate.py             # Script for evaluation visualizations
-├── outputs/
-│   ├── lama_output_images/     # Image inpainting results
-│   ├── video_inpainted.mp4     # Final video output
-│   ├── test_results_images/    # Raw test result images
-│   └── evaluation_images/      # Evaluation and comparison visuals
-├── requirements.txt            # Python dependencies
-└── README.md                   # This file
-```bash
-media-inpainting-toolkit/
-├── input_images/               # Place source images here
-├── input_video/                # Place source video here
-├── outputs/
-│   ├── lama_output_images/     # Image inpainting results
-│   └── video_inpainted.mp4     # Final video output
-├── models/                     # Download pretrained LAMA & XMem weights
-├── scripts/
-│   ├── inpaint_images.py       # Image inpainting pipeline
-│   └── inpaint_video.py        # Video inpainting pipeline
-├── requirements.txt            # Python dependencies
-└── README.md                   # This file
-```
-
 ---
 
 ## Models and Dependencies
