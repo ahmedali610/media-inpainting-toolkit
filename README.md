@@ -20,8 +20,8 @@ Media Inpainting Toolkit is a command-line Python application that enables seaml
    - [B. Video Inpainting](#b-video-inpainting)
 4. [Project Structure](#project-structure)
 5. [Models and Dependencies](#models-and-dependencies)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [Test-Results](#Test-Results)
+7. [Evaluation](#Evaluation)
 
 ---
 
@@ -145,23 +145,11 @@ media-inpainting-toolkit/
 
 ## Test Results
 
-- Place images you wish to test in the `test_images/` directory.
-- To run a quick test of image inpainting and save outputs:
-  ```bash
-  python scripts/inpaint_images.py \
-    --input_dir test_images/ \
-    --mask_json path/to/json_file.json \
-    --output_dir outputs/test_results_images/
-  ```
-- For video tests, use:
-  ```bash
-  python scripts/inpaint_video.py \
-    --input_video test_inputs/video.mp4 \
-    --mask_json path/to/json_file.json \
-    --output_video outputs/test_results_images/test_video.mp4 \
-    --temp_frames_dir temp/frames/ \
-    --temp_masks_dir temp/masks/
-  ```
+![image1](https://github.com/user-attachments/assets/d47a52a6-fab2-4cb9-a118-7b11ff4d83c7)
+
+
+![image6](https://github.com/user-attachments/assets/60ee35c5-14dd-4f71-9863-08c6a46896e2)
+
 
 ---
 
