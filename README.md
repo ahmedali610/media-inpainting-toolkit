@@ -155,12 +155,15 @@ media-inpainting-toolkit/
 
 ## Evaluation
 
-- To generate before/after comparison visuals, run the evaluation script:
-  ```bash
-  python scripts/evaluate.py \
-    --original_dir input_images/ \
-    --result_dir outputs/lama_output_images/ \
-    --output_dir outputs/evaluation_images/  
-  ```
-- Evaluation images (side-by-side comparisons) will be saved under `outputs/evaluation_images/`.
+![Image Evaluation](https://github.com/user-attachments/assets/7270de18-fde9-4070-b5bd-1a82e13ecbf0)      ![Video Evaluation](https://github.com/user-attachments/assets/978a589e-bf14-40b8-9a78-35070aa8eadc)
+
+
+### Metrics
+
+The toolkit computes two quantitative performance metrics for inpainting quality:
+
+- **Average SSIM (Structural Similarity Index):** Measures perceptual similarity between original and inpainted images. Values range from 0 to 1, with values closer to **1** indicating higher similarity and better inpainting quality.
+- **Average LPIPS (Learned Perceptual Image Patch Similarity):** A learned metric capturing perceptual differences. Values are typically between 0 and 1, with values closer to **0** indicating less perceptual difference and better inpainting performance.
+
+
 
