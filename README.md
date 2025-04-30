@@ -92,25 +92,6 @@
 
 ---
 
-## Project Structure
-
-```bash
-media-inpainting-toolkit/
-├── input_images/               # Place source images here
-├── input_video/                # Place source video here
-├── outputs/
-│   ├── lama_output_images/     # Image inpainting results
-│   └── video_inpainted.mp4     # Final video output
-├── models/                     # Download pretrained LAMA & XMem weights
-├── scripts/
-│   ├── inpaint_images.py       # Image inpainting pipeline
-│   └── inpaint_video.py        # Video inpainting pipeline
-├── requirements.txt            # Python dependencies
-└── README.md                   # This file
-```
-
----
-
 ## Models and Dependencies
 
 - **LAMA**: Large Masked Autoencoder for conditional image generation  
