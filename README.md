@@ -100,8 +100,6 @@ Media Inpainting Toolkit is a command-line Python application that enables seaml
 
 ---
 
----
-
 ## Models and Dependencies
 
 - **LAMA**: Large Masked Autoencoder for conditional image generation
