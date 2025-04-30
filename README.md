@@ -46,7 +46,8 @@ Media Inpainting Toolkit is a command-line Python application that enables seaml
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/media-inpainting-toolkit.git
+   git clone https://github.com/ahmedali610/media-inpainting-toolkit.git
+   
    cd media-inpainting-toolkit
    ```
 2. Create and activate a virtual environment:
