@@ -162,6 +162,7 @@ The toolkit computes two quantitative performance metrics for inpainting quality
 - **Average SSIM (Structural Similarity Index):** Measures perceptual similarity between original and inpainted images. Values range from 0 to 1, with values closer to **1** indicating higher similarity and better inpainting quality.
 - **Average LPIPS (Learned Perceptual Image Patch Similarity):** A learned metric capturing perceptual differences. Values are typically between 0 and 1, with values closer to **0** indicating less perceptual difference and better inpainting performance.
 
+
 ### Image Evaluation Results
 
 <div align="center">
